@@ -6,7 +6,8 @@
 }
 
 body {
-  background: linear-gradient(to right, #4e54c8, #8f94fb);
+  /* background: linear-gradient(to right, #4e54c8, #8f94fb); */
+  background-image: url(https://wallpapers.com/images/featured/pastel-gradient-background-etu0z7lbeebg6mlf.jpg);
 }
 
 .container {
